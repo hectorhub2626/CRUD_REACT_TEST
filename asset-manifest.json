@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CRUD_REACT_TEST/static/css/main.a617e044.chunk.css",
-    "main.js": "/CRUD_REACT_TEST/static/js/main.1b5b2859.chunk.js",
-    "main.js.map": "/CRUD_REACT_TEST/static/js/main.1b5b2859.chunk.js.map",
+    "main.js": "/CRUD_REACT_TEST/static/js/main.f150bef0.chunk.js",
+    "main.js.map": "/CRUD_REACT_TEST/static/js/main.f150bef0.chunk.js.map",
     "runtime-main.js": "/CRUD_REACT_TEST/static/js/runtime-main.0da1efba.js",
     "runtime-main.js.map": "/CRUD_REACT_TEST/static/js/runtime-main.0da1efba.js.map",
     "static/js/2.5765b640.chunk.js": "/CRUD_REACT_TEST/static/js/2.5765b640.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/CRUD_REACT_TEST/index.html",
     "static/css/main.a617e044.chunk.css.map": "/CRUD_REACT_TEST/static/css/main.a617e044.chunk.css.map",
     "static/js/2.5765b640.chunk.js.LICENSE.txt": "/CRUD_REACT_TEST/static/js/2.5765b640.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/CRUD_REACT_TEST/static/media/logo.6ce24c58.svg"
+    "static/media/logo.707b2c2c.svg": "/CRUD_REACT_TEST/static/media/logo.707b2c2c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0da1efba.js",
     "static/js/2.5765b640.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.1b5b2859.chunk.js"
+    "static/js/main.f150bef0.chunk.js"
   ]
 }
